@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/main"
+        android:icon="@android:drawable/ic_media_ff"
+        android:showAsAction="never"
+        android:title="菜单"/>
+    <item
+        android:id="@+id/main1"
+        android:icon="@android:drawable/ic_media_next"
+        android:showAsAction="never"
+        android:title="删除"/>
+
+</menu>
